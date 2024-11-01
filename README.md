@@ -31,3 +31,8 @@
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
+
+<p>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=jpgomesr&theme=tokyonight" alt="GitHub Streak" width="400"><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpgomesr&layout=pie&theme=tokyonight" alt="Top Langs">
+</p>
