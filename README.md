@@ -9,11 +9,11 @@
 </p>
 
 <p align="left">
-  👨‍💻 <strong>Linguagens/Languages:</strong> Java, JavaScript, TypeScript, HTML5, and CSS.
+  👨‍💻 <strong>Linguagens/Languages:</strong> Java, JavaScript, TypeScript, HTML5, & CSS.
 </p>
 
 <p align="left">
-  💼 <strong>Ferramentas/Tools:</strong> IntelliJ IDE, Visual Studio Code, Eclipse, and MySQL Workbench.
+  💼 <strong>Ferramentas/Tools:</strong> IntelliJ IDE, Visual Studio Code, Eclipse, & MySQL Workbench.
 </p>
 
 <p align="left">
