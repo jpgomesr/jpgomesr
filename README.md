@@ -1,27 +1,33 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="400" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  <strong>PT-BR</strong><br>
+  Olá! Sou um estudante de 17 anos apaixonado por tecnologia. Estou sempre em busca de novos desafios e oportunidades de aprendizado, focando no meu desenvolvimento pessoal e acadêmico. Gosto de explorar diferentes áreas do conhecimento e me esforço constantemente para expandir minhas habilidades e enfrentar projetos mais complexos.
+
+  <strong>EN</strong><br>
+  Hi! I am a 17-year-old student with a strong interest in technology. I am always seeking new challenges and opportunities to learn, dedicating myself to my personal and academic development. I enjoy exploring various fields of knowledge and continuously strive to expand my skills and tackle more complex projects.
 </p>
 
 <p align="left">
-  👨‍💻 Linguagens: Java, JavaScript, TypeScript, HTML5 e CSS
+  👨‍💻 <strong>Linguagens/Languages:</strong> Java, JavaScript, TypeScript, HTML5, and CSS.
 </p>
 
 <p align="left">
-  💼 Ferramentas: IntelliJ IDE, Visual Studio Code, Eclipse e MySQL Workbench.
+  💼 <strong>Ferramentas/Tools:</strong> IntelliJ IDE, Visual Studio Code, Eclipse, and MySQL Workbench.
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 <strong>Contatos/Contact:</strong> ⤵️
 </p>
 
 <p align="left">
   <a href="mailto:jpgomesr.dev@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-gomes-rodrigues-a756722a0/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://instagram.com/joaopauloogr" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
