@@ -32,7 +32,7 @@
   </a>
 </p>
 
-<p style="display: flex; gap: 1.5rem;">
+<p style="display: flex; gap: 5rem; flex-direction: row; justify-content: center; align-items: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=jpgomesr&theme=tokyonight" alt="GitHub Streak" width="400">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpgomesr&layout=pie&theme=tokyonight" alt="Top Langs">
 </p>
