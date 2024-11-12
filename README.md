@@ -32,7 +32,7 @@
   </a>
 </p>
 
-<p>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=jpgomesr&theme=tokyonight" alt="GitHub Streak" width="400"><br>
+<p style="display: flex; gap: 1.5rem;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=jpgomesr&theme=tokyonight" alt="GitHub Streak" width="400">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpgomesr&layout=pie&theme=tokyonight" alt="Top Langs">
 </p>
