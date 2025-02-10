@@ -30,7 +30,7 @@
 
 ## 📖 Sobre mim:
 
-- 🔭 Eu atualmente sou Estudante do CentroWeg..
+- 🔭 Eu atualmente sou Estudante do CentroWeg.
 - 🌱 Estou atualmente aprendendo mais sobre Backend com JAVA / Springboot / Node.js...
 - 🗣️ Além do português, falo inglês e espanhol. 
 - 🎓 Estou cursando atualmente Engenharia de Software.
