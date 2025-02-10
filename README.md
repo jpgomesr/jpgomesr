@@ -1,4 +1,4 @@
-## <img height="40" src="[https://tenor.com/view/dev-gif-23299500](https://c.tenor.com/o6aj3W2I7rMAAAAC/dev.gif)"/>Bem-vindo(a) ao meu perfil de desenvolvedor! Sou João Paulo.
+## <img height="40" src="[https://tenor.com/view/dev-gif-23299500](https://c.tenor.com/o6aj3W2I7rMAAAAC/dev.gif)"/>Bem-vindo(a) ao meu perfil! Sou João Paulo.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpgomesr&theme=dark" />
