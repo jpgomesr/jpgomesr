@@ -1,8 +1,4 @@
-## <img height="40" src="[https://tenor.com/view/dev-gif-23299500](https://c.tenor.com/o6aj3W2I7rMAAAAC/dev.gif)"/>Bem-vind@ ao meu perfil de desenvolvedor! Sou Matheus Quost.
-
-[![Linkedin Badge](https://img.shields.io/badge/-jpgomesr-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-/)]([https://www.linkedin.com/in//](https://www.linkedin.com/in/jo%C3%A3o-paulo-gomes-rodrigues-a756722a0/))
-[![Instagram Badge](https://img.shields.io/badge/-@joaopauloogr-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/matheus_quost/)](https://instagram.com/joaopauloogr)
-[![Gmail Badge](https://img.shields.io/badge/-jpgomesr-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:matheusquost@pm.me)](mailto:jpgomesr07@gmail.com)
+## <img height="40" src="[https://tenor.com/view/dev-gif-23299500](https://c.tenor.com/o6aj3W2I7rMAAAAC/dev.gif)"/>Bem-vindo(a) ao meu perfil de desenvolvedor! Sou João Paulo.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpgomesr&theme=dark" />
