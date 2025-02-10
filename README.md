@@ -30,7 +30,23 @@
 
 ## 📖 Sobre mim:
 
-- 🔭 Eu atualmente sou Estudante do CentroWeg.
-- 🌱 Estou atualmente aprendendo mais sobre Backend com JAVA / Springboot / Node.js...
-- 🗣️ Além do português, falo inglês e espanhol. 
-- 🎓 Estou cursando atualmente Engenharia de Software.
+Olá, sou o João Paulo! Tenho 18 anos e sou apaixonado por tecnologia e desenvolvimento. Estou cursando **Desenvolvimento de Sistemas** pelo CentroWEG e paralelamente um **Bacharelado em Engenharia de Software**.
+
+Tenho experiência em **front-end** e **back-end**, com foco em **React** e **SpringBoot**, além de sempre buscar me aprofundar em novas tecnologias.
+
+Tenho bom entendimento em **Inglês** e **Espanhol**, o que me ajuda a me comunicar facilmente em ambientes internacionais.
+
+Tenho interesse especial em **Desenvolvimento de Games** e estou sempre buscando melhorar minhas habilidades nessa área.
+
+**Soft Skills:**
+- Trabalho bem em equipe, priorizando a colaboração e o aprendizado coletivo.
+- Sou organizado, o que me permite entregar resultados de forma eficiente.
+- Tenho boa comunicação e adaptação a novas situações e desafios.
+- Sou curioso e sempre disposto a aprender novas tecnologias para melhorar minhas habilidades.
+
+**Objetivos de Carreira:**
+- Buscar uma oportunidade de trabalhar como **desenvolvedor full-stack**, com ênfase em **desenvolvimento de jogos** no futuro.
+
+**Hobbies e Interesses:**
+- No meu tempo livre, gosto de aprender mais sobre **programação** e explorar novas linguagens e frameworks.
+- Adoro **jogar jogos de FPS** e **MMOs**, o que me inspira ainda mais a trabalhar com desenvolvimento de jogos.
