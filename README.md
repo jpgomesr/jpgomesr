@@ -1,38 +1,40 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="400" align="right">
+## <img height="40" src="[https://tenor.com/view/dev-gif-23299500](https://c.tenor.com/o6aj3W2I7rMAAAAC/dev.gif)"/>Bem-vind@ ao meu perfil de desenvolvedor! Sou Matheus Quost.
 
-<p align="left"> 
-  <strong>PT-BR</strong><br>
-  Olá! Sou um estudante de 17 anos apaixonado por tecnologia. Estou sempre em busca de novos desafios e oportunidades de aprendizado, focando no meu desenvolvimento pessoal e acadêmico. Gosto de explorar diferentes áreas do conhecimento e me esforço constantemente para expandir minhas habilidades e enfrentar projetos mais complexos.
+[![Linkedin Badge](https://img.shields.io/badge/-jpgomesr-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-/)]([https://www.linkedin.com/in//](https://www.linkedin.com/in/jo%C3%A3o-paulo-gomes-rodrigues-a756722a0/))
+[![Instagram Badge](https://img.shields.io/badge/-@joaopauloogr-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/matheus_quost/)](https://instagram.com/joaopauloogr)
+[![Gmail Badge](https://img.shields.io/badge/-jpgomesr-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:matheusquost@pm.me)](mailto:jpgomesr07@gmail.com)
 
-  <strong>EN</strong><br>
-  Hi! I am a 17-year-old student with a strong interest in technology. I am always seeking new challenges and opportunities to learn, dedicating myself to my personal and academic development. I enjoy exploring various fields of knowledge and continuously strive to expand my skills and tackle more complex projects.
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpgomesr&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpgomesr&layout=compact&card_width=300&theme=dark" />
+</div>
 
-<p align="left">
-  👨‍💻 <strong>Linguagens/Languages:</strong> Java, JavaScript, TypeScript, HTML5, & CSS.
-</p>
 
-<p align="left">
-  💼 <strong>Ferramentas/Tools:</strong> IntelliJ IDE, Visual Studio Code, Eclipse, & MySQL Workbench.
-</p>
+## 👩‍💻 Tecnologias que tenho domínio / estou encaminhando ao domínio:
 
-<p align="left">
-  💌 <strong>Contatos/Contact:</strong> ⤵️
-</p>
+<div align="center">
+  <div align="center">
+    <img title="HTML-5" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img title="CSS-3" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img title="JavaScript" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <img title="ReactJS" alt="React JS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img title="Springboot" alt="Springboot" src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  </div>
+  
+  <div align="center">
+    <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+    <img title="Git" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img title="Node.js" alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img title="MySQL" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img title="Java" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  </div>
+</div>
 
-<p align="left">
-  <a href="mailto:jpgomesr.dev@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-gomes-rodrigues-a756722a0/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/joaopauloogr" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
 
-<p>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=jpgomesr&theme=tokyonight" alt="GitHub Streak" width="400"><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpgomesr&layout=pie&theme=tokyonight" alt="Top Langs">
-</p>
+## 📖 Sobre mim:
+
+- 🔭 Eu atualmente sou Estudante do CentroWeg..
+- 🌱 Estou atualmente aprendendo mais sobre Backend com JAVA / Springboot / Node.js...
+- 🗣️ Além do português, falo inglês e espanhol. 
+- 🎓 Estou cursando atualmente Engenharia de Software.
