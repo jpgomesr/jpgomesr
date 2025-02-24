@@ -30,7 +30,7 @@
 
 ## 📖 Sobre mim:
 
-Olá, sou o João Paulo! Tenho 18 anos e sou apaixonado por tecnologia e desenvolvimento. Estou cursando **Desenvolvimento de Sistemas** pelo CentroWEG e paralelamente um **Bacharelado em Engenharia de Software**.
+Olá, sou o João Paulo! Tenho 18 anos e tenho grande interresse por tecnologia e desenvolvimento. Estou cursando **Desenvolvimento de Sistemas** pelo CentroWEG e paralelamente um **Bacharelado em Engenharia de Software**.
 
 Tenho experiência em **front-end** e **back-end**, com foco em **Next.js** e **SpringBoot**, além de sempre buscar me aprofundar em novas tecnologias.
 
