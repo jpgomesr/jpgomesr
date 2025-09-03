@@ -1,4 +1,4 @@
-## <img height="40" src="https://c.tenor.com/o6aj3W2I7rMAAAAC/dev.gif"/> Welcome to my profile! I'm João Paulo.
+## Welcome to my profile! I'm João Paulo.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpgomesr&theme=dark" />
