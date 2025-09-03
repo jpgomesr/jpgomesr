@@ -1,4 +1,4 @@
-## <img height="40" src="[https://tenor.com/view/dev-gif-23299500](https://c.tenor.com/o6aj3W2I7rMAAAAC/dev.gif)"/>Bem-vindo(a) ao meu perfil! Sou João Paulo.
+## <img height="40" src="https://c.tenor.com/o6aj3W2I7rMAAAAC/dev.gif"/> Welcome to my profile! I'm João Paulo.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpgomesr&theme=dark" />
@@ -6,19 +6,19 @@
 </div>
 
 
-## 👩‍💻 Tecnologias que tenho domínio / estou encaminhando ao domínio:
+## 👨‍💻 Technologies I work with / currently mastering:
 
 <div align="center">
-  <div align="center">
+  <div>
     <img title="HTML-5" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img title="CSS-3" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img title="JavaScript" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img title="ReactJS" alt="React JS" src="https://img.shields.io/badge/ReactJs-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img title="Springboot" alt="Springboot" src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+    <img title="Spring Boot" alt="Springboot" src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   </div>
   
-  <div align="center">
+  <div>
     <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
     <img title="Git" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img title="Node.js" alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -28,25 +28,36 @@
 </div>
 
 
-## 📖 Sobre mim:
+## 📖 About Me
 
-Olá, sou o João Paulo! Tenho 18 anos e tenho grande interresse por tecnologia e desenvolvimento. Estou cursando **Desenvolvimento de Sistemas** pelo CentroWEG e paralelamente um **Bacharelado em Engenharia de Software**.
+Hi, I’m João Paulo! I’m 18 years old and very interested in **technology and software development**.  
+Currently, I am pursuing a **Bachelor’s degree in Software Engineering** and have completed a vocational program in **Software Development** at CentroWEG (WEG S/A).  
 
-Tenho experiência em **front-end** e **back-end**, com foco em **Next.js** e **SpringBoot**, além de sempre buscar me aprofundar em novas tecnologias.
+I have hands-on experience with both **front-end** and **back-end**, focusing on **Next.js** and **Spring Boot**, while constantly exploring new tools and frameworks.  
 
-Tenho bom entendimento em **Inglês** e **Espanhol**, o que me ajuda a me comunicar facilmente em ambientes internacionais.
+I am also highly interested in **Artificial Intelligence** and **Game Development**, and I am continuously improving my skills in these areas.  
 
-Tenho interesse especial em **Desenvolvimento de Games** e estou sempre buscando melhorar minhas habilidades nessa área.
 
-**Soft Skills:**
-- Trabalho bem em equipe, priorizando a colaboração e o aprendizado coletivo.
-- Sou organizado, o que me permite entregar resultados de forma eficiente.
-- Tenho boa comunicação e adaptação a novas situações e desafios.
-- Sou curioso e sempre disposto a aprender novas tecnologias para melhorar minhas habilidades.
+## 🌟 Core Competencies
+- Full-stack development with modern frameworks and tools.  
+- Strong foundation in object-oriented programming and clean code practices.  
+- Effective collaboration in multidisciplinary teams.  
+- Problem-solving with focus on scalability and performance.  
 
-**Objetivos de Carreira:**
-- Buscar uma oportunidade de trabalhar como **desenvolvedor full-stack**, com ênfase em **desenvolvimento de jogos** no futuro.
 
-**Hobbies e Interesses:**
-- No meu tempo livre, gosto de aprender mais sobre **programação** e explorar novas linguagens e frameworks.
-- Adoro **jogar jogos de FPS** e **MMOs**, o que me inspira ainda mais a trabalhar com desenvolvimento de jogos.
+## 🎯 Professional Goals
+- Strengthen expertise in **Full-Stack Development** with focus on scalable applications.  
+- Contribute to impactful software projects in both corporate and open-source environments.  
+- Continuously improve technical and leadership skills to advance in the software industry.  
+
+
+## 🌍 Languages
+- **Portuguese**: Native  
+- **English**: Upper-Intermediate (B2)  
+- **Spanish**: Basic knowledge  
+
+
+## 📌 Additional Interests
+- Exploring new programming languages and frameworks.  
+- Researching emerging technologies in **software engineering**, **AI**, and **game development**.  
+- Engaging in projects that combine creativity, technology, and innovation.  
