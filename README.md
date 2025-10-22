@@ -54,7 +54,7 @@ I am also highly interested in **Artificial Intelligence** and **Game Developmen
 
 ## 🌍 Languages
 - **Portuguese**: Native  
-- **English**: Upper-Intermediate (B2)  
+- **English**: Intermediate (B1)  
 - **Spanish**: Basic knowledge  
 
 
