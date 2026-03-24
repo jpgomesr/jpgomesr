@@ -1,14 +1,12 @@
 <div align="center">
 
-# Joao Paulo
-
 Building scalable platforms • Developer tooling • Distributed systems
 
 </div>
 
 <br/>
 
-Software Engineer focused on scalable platforms, developer tooling and distributed systems.  
+Software Engineer focused on platform engineering, developer tooling and scalable systems.  
 Currently working with modern architectures using Next.js, Spring Boot and Go.
 
 ## Stack
@@ -38,7 +36,7 @@ Currently working with modern architectures using Next.js, Spring Boot and Go.
 - Full-stack developer  
 - Interested in platform engineering and developer experience  
 - Focused on scalable and modular systems  
-- Exploring Go for backend and tooling  
+- Building backend services with Go and Spring Boot  
 
 ## Projects in Progress
 
