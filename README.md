@@ -1,9 +1,19 @@
-# João Paulo
+<div align="center">
+
+# Joao Paulo
+
+Building scalable platforms • Developer tooling • Distributed systems
+
+</div>
+
+<br/>
 
 Software Engineer focused on scalable platforms, developer tooling and distributed systems.  
 Currently working with modern architectures using Next.js, Spring Boot and Go.
 
 ## Stack
+
+<div align="center">
 
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-111111?style=flat&logo=react&logoColor=61DAFB)
@@ -20,6 +30,8 @@ Currently working with modern architectures using Next.js, Spring Boot and Go.
 ![Linux](https://img.shields.io/badge/Linux-111111?style=flat&logo=linux)
 ![Git](https://img.shields.io/badge/Git-111111?style=flat&logo=git)
 
+</div>
+
 ## About
 
 - Software Engineering student  
@@ -33,6 +45,6 @@ Currently working with modern architectures using Next.js, Spring Boot and Go.
 ### ProvisionHub
 Developer platform for scaffolding, provisioning and managing services using layered templates, plugins and Git-based workflows.
 
-- Repo: https://github.com/jpgomesr/provisionhub
+- Repo: https://github.com/provision-labs/provisionhub
 - Stack: Go, Next.js, PostgreSQL, Kafka, Keycloak
 - Status: In development
