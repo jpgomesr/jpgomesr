@@ -40,9 +40,9 @@ Currently working with modern architectures using Next.js, Spring Boot and Go.
 
 ## Projects in Progress
 
-### ProvisionHub
-Developer platform for scaffolding, provisioning and managing services using layered templates, plugins and Git-based workflows.
+### NeuralVault
+An open-source AI memory and contextual retrieval platform. Instead of a chatbot that forgets everything the moment the session ends, NeuralVault indexes your knowledge sources — Obsidian vaults, Git repositories, PDFs, docs — and retrieves the most relevant context for every question you ask.
 
-- Repo: https://github.com/provision-labs/provisionhub
-- Stack: Go, Next.js, PostgreSQL, Kafka, Keycloak
+- Repo: Not public yet
+- Stack: Go, Next.js, PostgreSQL, Qdrant, Llama, Posthog
 - Status: In development
