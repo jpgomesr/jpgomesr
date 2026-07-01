@@ -43,6 +43,6 @@ Currently working with modern architectures using Next.js, Spring Boot and Go.
 ### NeuralVault
 An open-source AI memory and contextual retrieval platform. Instead of a chatbot that forgets everything the moment the session ends, NeuralVault indexes your knowledge sources — Obsidian vaults, Git repositories, PDFs, docs — and retrieves the most relevant context for every question you ask.
 
-- Repo: Not public yet
+- Repo: https://github.com/jpgomesr/neuralvault
 - Stack: Go, Next.js, PostgreSQL, Qdrant, Llama, Posthog
 - Status: In development
